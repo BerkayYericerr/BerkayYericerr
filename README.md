@@ -1,16 +1,35 @@
-## Hi there 👋
+# Berkay Yeriçer
 
-<!--
-**BerkayYericerr/BerkayYericerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior Computer Engineering student at Middle East Technical University (METU), with experience in software development, embedded systems, and AI-powered robotics. I am particularly interested in building scalable technologies that combine intelligent systems with real-world hardware.
 
-Here are some ideas to get you started:
+- BSc in Computer Engineering, METU  
+- Internship: Skyconis (Software Engineering)  
+- 2-time participant of the Disney College Program, Florida, USA  
+- Co-founder of RootCulm Strategies, a startup initiative at METU Technopolis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+- Embedded AI and autonomous robotic systems  
+- Backend and API development with authentication and authorization  
+- Full-stack web application development  
+- Startup strategy and technical consulting
+
+## Technical Skills
+
+**Programming:** Python, C++, JavaScript  
+**Frameworks & Tools:** React, Flask, Node.js, Express, Git  
+**Databases:** PostgreSQL, MongoDB  
+**Platforms:** Raspberry Pi, Arduino, Firebase, Heroku, Vercel  
+
+## Selected Projects
+
+**Sea Turtle Protection Robot**  
+An autonomous robot that uses computer vision and GPS to detect and protect hatchling sea turtles from predators.
+
+**Contactless Restaurant Payment System**  
+A table-mounted NFC interface that enables customers to pay without staff assistance, improving efficiency and user experience.
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/berkay-yeriçer-79a057203](https://www.linkedin.com/in/berkay-yeri%C3%A7er-79a057203)  
+- Email: berkay.yericerr@hotmail.com
