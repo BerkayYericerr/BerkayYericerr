@@ -11,7 +11,7 @@ I am a senior Computer Engineering student at Middle East Technical University (
 
 - Embedded AI and autonomous robotic systems  
 - Backend and API development with authentication and authorization  
-- Full-stack web application development  
+- Full-stack development  
 - Startup strategy and technical consulting
 
 ## Technical Skills
