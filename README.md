@@ -26,8 +26,6 @@ I am a senior Computer Engineering student at Middle East Technical University (
 **Sea Turtle Protection Robot**  
 An autonomous robot that uses computer vision and GPS to detect and protect hatchling sea turtles from predators.
 
-**Contactless Restaurant Payment System**(Future Project)
-A table-mounted NFC interface that enables customers to pay without staff assistance, improving efficiency and user experience.
 
 ## Contact
 
