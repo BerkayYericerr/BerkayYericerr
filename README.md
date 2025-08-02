@@ -19,7 +19,7 @@ I am a senior Computer Engineering student at Middle East Technical University (
 **Programming:** Python, C++, JavaScript  
 **Frameworks & Tools:** React, Flask, Node.js, Express, Git  
 **Databases:** PostgreSQL, MongoDB  
-**Platforms:** Raspberry Pi, Arduino, Firebase, Heroku, Vercel  
+**Platforms:** Raspberry Pi, Arduino, Firebase, Heroku, 
 
 ## Selected Projects
 
